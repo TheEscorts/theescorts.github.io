@@ -125,7 +125,7 @@ p {
     left: 0;
     width: 60%;
     margin-top: 3rem;
-    position: absolute;
+    position: fixed;
   }
   .intro .intro-text .intro-button {
     width: 100%;
